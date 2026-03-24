@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/muhammad-shahzaib-jatt" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:your.hello@muhammadshahzaibjatt.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
