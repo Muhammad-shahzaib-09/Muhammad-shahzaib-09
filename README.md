@@ -19,16 +19,13 @@
 ---
 
 ### 👨‍💻 About Me
+I'm a cybersecurity graduate with a focus on blue teaming and Security Operations.
 
-I am a passionate **Cybersecurity Professional** focused on defending digital infrastructures, analyzing threats, and strengthening organizational security posture. My approach combines continuous learning with practical implementation in SOC operations and network security.
-
-- 🛡️ **Current Focus:** SOC Operations, Threat Hunting, and Vulnerability Assessment.
-- 🔭 **I’m currently working on:** Enhancing my skills in Incident Response and Cloud Security.
-- 🌱 **I’m currently learning:** Advanced Malware Analysis and Web Application Penetration Testing.
-- 💬 **Ask me about:** Network Security, SIEM Tools, OSINT, and CTF challenges.
-- 📫 **How to reach me:** Drop a message on [LinkedIn](https://www.linkedin.com/in/muhammad-shahzaib-jatt).
-- ⚡ **Fun Fact:** When I'm not hunting bugs or analyzing logs, I'm probably reading up on the latest zero-day exploits.
-
+🔍 Current Focus: SOC workflows, Threat Detection, and Log Analysis
+🛠️ Exploring: Wazuh, SIEM platforms, and network monitoring
+📚 Currently learning: Alert triage, incident response fundamentals
+🌐 Ask me about: Network security, OSINT, and CTF write-ups
+📬 Reach me: hello@muhammadshahzaibjatt.com
 ---
 
 ### 🛠️ Skills & Tools
@@ -61,8 +58,7 @@ I am a passionate **Cybersecurity Professional** focused on defending digital in
 ### 📜 Certifications & Achievements
 *(Note: Edit this section to match your LinkedIn Certifications)*
 - 🏆 **TryHackMe / HackTheBox** - Active Participant & CTF Player
-- 🏅 **[Add your CyberSec Certification 1]** - e.g., CompTIA Security+, ISC2 CC
-- 🏅 **[Add your CyberSec Certification 2]** - e.g., eJPT, BTL1
+- 🏅 
 
 ---
 
