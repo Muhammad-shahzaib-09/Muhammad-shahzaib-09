@@ -21,12 +21,17 @@
 ### 👨‍💻 About Me
 I'm a cybersecurity graduate with a focus on blue teaming and Security Operations.
 
-🔍 Current Focus: SOC workflows, Threat Detection, and Log Analysis
-🛠️ Exploring: Wazuh, SIEM platforms, and network monitoring
-📚 Currently learning: Alert triage, incident response fundamentals
-🌐 Ask me about: Network security, OSINT, and CTF write-ups
-📬 Reach me: hello@muhammadshahzaibjatt.com
----
+<br>
+
+🔍 **Current Focus:** SOC workflows, Threat Detection, and Log Analysis
+
+🛠️ **Exploring:** Wazuh, SIEM platforms, and network monitoring
+
+📚 **Currently learning:** Alert triage, incident response fundamentals
+
+🌐 **Ask me about:** Network security, OSINT, and CTF write-ups
+
+📬 **Reach me:** hello@muhammadshahzaibjatt.com
 
 ### 🛠️ Skills & Tools
 
